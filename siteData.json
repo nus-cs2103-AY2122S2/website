@@ -618,11 +618,11 @@
       "headings": {
         "tp-week-13-v1-4": "tP week 13: v1.4 ",
         "1-do-final-polish-ups": "1  Do final polish-ups",
-        "2-submit-deliverables-mon-nov-8th-2359": "2  Submit deliverables  Mon, Nov 8th 2359",
-        "3-wrap-up-the-milestone-wed-nov-10th-2359": "3  Wrap up the milestone  Wed, Nov 10th 2359",
-        "4-submit-the-demo-video-wed-nov-10th-2359": "4  Submit the demo video  Wed, Nov 10th 2359",
+        "2-submit-deliverables-mon-apr-11th-2359": "2  Submit deliverables  Mon, Apr 11th 2359",
+        "3-wrap-up-the-milestone-wed-apr-13th-2359": "3  Wrap up the milestone  Wed, Apr 13th 2359",
+        "4-submit-the-demo-video-wed-apr-13th-2359": "4  Submit the demo video  Wed, Apr 13th 2359",
         "5-prepare-for-the-practical-exam": "5  Prepare for the practical exam",
-        "6-attend-the-practical-exam-during-lecture-on-fri-apr-15th": "6  Attend the practical exam  during lecture on Fri, Apr 15th ",
+        "6-attend-the-practical-exam-moved-to-sat-apr-16th": "6  Attend the practical exam  moved to Sat, Apr 16th ",
         "7-if-needed-attend-the-makeup-practical-exam-sun-apr-17th-1400-1600": "7  [if needed] Attend the makeup practical exam  Sun, Apr 17th 1400-1600"
       },
       "headingKeywords": {}
@@ -690,9 +690,10 @@
         "1-do-a-practice-iteration-midnight-before-the-tutorial": "1  Do a practice iteration  midnight before the tutorial",
         "2-update-project-website-aboutus-readme": "2  Update project website: AboutUs, README",
         "3-update-the-ug": "3  Update the UG",
-        "4-update-the-dg-user-stories-glossary-nfrs-use-cases": "4  Update the DG: user stories, glossary, NFRs, use cases",
-        "5-plan-the-next-iteration": "5  Plan the next iteration",
-        "6-start-implementing-the-next-version": "6  Start implementing the next version"
+        "4-add-a-skeletal-ppp": "4  Add a skeletal PPP",
+        "5-update-the-dg-user-stories-glossary-nfrs-use-cases": "5  Update the DG: user stories, glossary, NFRs, use cases",
+        "6-plan-the-next-iteration": "6  Plan the next iteration",
+        "7-start-implementing-the-next-version": "7  Start implementing the next version"
       },
       "headingKeywords": {}
     },
@@ -712,6 +713,7 @@
       "title": "Admin: tP week 9: v1.2",
       "headings": {
         "tp-week-9-v1-2": "tP week 9: v1.2 ",
+        "how-to-define-version-numbers": "How to define version numbers?",
         "1-deliver-v1-2": "1  Deliver v1.2",
         "2-wrap-up-v1-2": "2  Wrap up v1.2",
         "3-do-an-informal-demo-of-v1-2-before-the-tutorial": "3  Do an informal demo of v1.2  before the tutorial"
@@ -887,7 +889,7 @@
         "compiling-programs": "Compiling Programs",
         "running-programs": "Running Programs",
         "exercise-run-helloworld": " [Exercise] Run HelloWorld",
-        "key-exercise-byeworld": " [Key Exercise] ByeWorld",
+        "exercise-byeworld": "[Exercise] ByeWorld",
         "primitive-data-types": "Primitive Data Types",
         "variables": "Variables",
         "operators": "Operators",

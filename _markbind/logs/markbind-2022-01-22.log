@@ -1,0 +1,33 @@
+2022-01-22T06:45:09.436Z - info: Website generation (lazy) started at 2:45:04 pm
+2022-01-22T06:45:15.244Z - info: Building assets...
+2022-01-22T06:45:20.326Z - info: Assets built
+2022-01-22T06:45:20.326Z - info: Generating landing page...
+2022-01-22T06:45:21.428Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-01-22T06:45:22.471Z - info: Site data built
+2022-01-22T06:45:22.471Z - info: Website generation (lazy) complete! Total build time: 17.792s
+2022-01-22T06:45:23.420Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2022-01-22T06:45:23.420Z - info: Press CTRL+C to stop ...
+2022-01-22T06:48:25.986Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\index as some of its dependencies were changed since the last visit
+2022-01-22T06:48:26.647Z - info: Site data built
+2022-01-22T06:48:26.648Z - info: Lazy website regeneration complete! Total build time: 0.662s
+2022-01-22T06:48:38.761Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\participation as some of its dependencies were changed since the last visit
+2022-01-22T06:48:39.039Z - info: Site data built
+2022-01-22T06:48:39.039Z - info: Lazy website regeneration complete! Total build time: 0.279s
+2022-01-22T06:51:13.875Z - info: [2:51:13 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\participation.md
+2022-01-22T06:51:13.875Z - info: Synchronizing opened pages list before reload
+2022-01-22T06:51:13.875Z - info: Current opened pages, from most-to-least recent:
+2022-01-22T06:51:13.875Z - info: 1. admin/participation
+2022-01-22T06:51:14.891Z - info: Rebuilding 1 pages
+2022-01-22T06:51:15.098Z - info: Site data built
+2022-01-22T06:51:15.098Z - info: Pages rebuilt
+2022-01-22T06:51:15.099Z - info: Website regeneration complete! Total build time: 0.208s
+2022-01-22T06:53:02.125Z - info: [2:53:02 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\participation.md
+2022-01-22T06:53:02.126Z - info: Synchronizing opened pages list before reload
+2022-01-22T06:53:02.126Z - info: Current opened pages, from most-to-least recent:
+2022-01-22T06:53:02.126Z - info: 1. admin/participation
+2022-01-22T06:53:03.149Z - info: Rebuilding 1 pages
+2022-01-22T06:53:03.357Z - info: Site data built
+2022-01-22T06:53:03.357Z - info: Pages rebuilt
+2022-01-22T06:53:03.357Z - info: Website regeneration complete! Total build time: 0.21s
+2022-01-22T07:09:04.865Z - info: Website generation started at 3:09:02 pm
+2022-01-22T07:09:12.304Z - info: Building assets...

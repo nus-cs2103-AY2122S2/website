@@ -1,0 +1,65 @@
+2022-02-04T17:30:51.624Z - info: Website generation (lazy) started at 1:30:43 am
+2022-02-04T17:30:58.155Z - info: Building assets...
+2022-02-04T17:31:04.100Z - info: Assets built
+2022-02-04T17:31:04.101Z - info: Generating landing page...
+2022-02-04T17:31:06.574Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-02-04T17:31:08.030Z - info: Site data built
+2022-02-04T17:31:08.030Z - info: Website generation (lazy) complete! Total build time: 24.561s
+2022-02-04T17:31:08.999Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2022-02-04T17:31:08.999Z - info: Press CTRL+C to stop ...
+2022-02-04T17:32:12.942Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\index as some of its dependencies were changed since the last visit
+2022-02-04T17:32:13.718Z - info: Site data built
+2022-02-04T17:32:13.718Z - info: Lazy website regeneration complete! Total build time: 0.776s
+2022-02-04T17:33:54.624Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\programmingLanguages as some of its dependencies were changed since the last visit
+2022-02-04T17:33:54.858Z - info: Site data built
+2022-02-04T17:33:54.858Z - info: Lazy website regeneration complete! Total build time: 0.234s
+2022-02-04T17:35:23.126Z - info: [1:35:23 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\programmingLanguages.md
+2022-02-04T17:35:23.126Z - info: Synchronizing opened pages list before reload
+2022-02-04T17:35:23.126Z - info: Current opened pages, from most-to-least recent:
+2022-02-04T17:35:23.126Z - info: 1. admin/programmingLanguages
+2022-02-04T17:35:24.138Z - info: Rebuilding 1 pages
+2022-02-04T17:35:24.462Z - info: Site data built
+2022-02-04T17:35:24.462Z - info: Pages rebuilt
+2022-02-04T17:35:24.463Z - info: Website regeneration complete! Total build time: 0.326s
+2022-02-04T17:40:37.348Z - info: [1:40:37 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\programmingLanguages.md
+2022-02-04T17:40:37.348Z - info: Synchronizing opened pages list before reload
+2022-02-04T17:40:37.349Z - info: Current opened pages, from most-to-least recent:
+2022-02-04T17:40:37.349Z - info: 1. admin/programmingLanguages
+2022-02-04T17:40:38.358Z - info: Rebuilding 1 pages
+2022-02-04T17:40:38.532Z - info: Site data built
+2022-02-04T17:40:38.532Z - info: Pages rebuilt
+2022-02-04T17:40:38.532Z - info: Website regeneration complete! Total build time: 0.174s
+2022-02-04T17:41:01.099Z - info: [1:41:01 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\programmingLanguages.md
+2022-02-04T17:41:01.099Z - info: Synchronizing opened pages list before reload
+2022-02-04T17:41:01.099Z - info: Current opened pages, from most-to-least recent:
+2022-02-04T17:41:01.099Z - info: 1. admin/programmingLanguages
+2022-02-04T17:41:02.106Z - info: Rebuilding 1 pages
+2022-02-04T17:41:02.245Z - info: Site data built
+2022-02-04T17:41:02.245Z - info: Pages rebuilt
+2022-02-04T17:41:02.245Z - info: Website regeneration complete! Total build time: 0.139s
+2022-02-04T17:41:09.761Z - info: [1:41:09 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\programmingLanguages.md
+2022-02-04T17:41:09.761Z - info: Synchronizing opened pages list before reload
+2022-02-04T17:41:09.761Z - info: Current opened pages, from most-to-least recent:
+2022-02-04T17:41:09.761Z - info: 1. admin/programmingLanguages
+2022-02-04T17:41:10.771Z - info: Rebuilding 1 pages
+2022-02-04T17:41:10.907Z - info: Site data built
+2022-02-04T17:41:10.908Z - info: Pages rebuilt
+2022-02-04T17:41:10.908Z - info: Website regeneration complete! Total build time: 0.138s
+2022-02-04T17:43:23.386Z - info: [1:43:23 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\programmingLanguages.md
+2022-02-04T17:43:23.386Z - info: Synchronizing opened pages list before reload
+2022-02-04T17:43:23.386Z - info: Current opened pages, from most-to-least recent:
+2022-02-04T17:43:23.386Z - info: 1. admin/programmingLanguages
+2022-02-04T17:43:24.391Z - info: Rebuilding 1 pages
+2022-02-04T17:43:24.524Z - info: Site data built
+2022-02-04T17:43:24.524Z - info: Pages rebuilt
+2022-02-04T17:43:24.524Z - info: Website regeneration complete! Total build time: 0.133s
+2022-02-04T17:44:31.547Z - info: [1:44:31 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\programmingLanguages.md
+2022-02-04T17:44:31.547Z - info: Synchronizing opened pages list before reload
+2022-02-04T17:44:31.547Z - info: Current opened pages, from most-to-least recent:
+2022-02-04T17:44:31.547Z - info: 1. admin/programmingLanguages
+2022-02-04T17:44:32.562Z - info: Rebuilding 1 pages
+2022-02-04T17:44:32.694Z - info: Site data built
+2022-02-04T17:44:32.694Z - info: Pages rebuilt
+2022-02-04T17:44:32.694Z - info: Website regeneration complete! Total build time: 0.132s
+2022-02-04T17:45:14.697Z - info: Website generation started at 1:45:13 am
+2022-02-04T17:45:19.621Z - info: Building assets...

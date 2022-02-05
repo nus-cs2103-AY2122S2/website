@@ -63,3 +63,31 @@
 2022-02-04T17:44:32.694Z - info: Website regeneration complete! Total build time: 0.132s
 2022-02-04T17:45:14.697Z - info: Website generation started at 1:45:13 am
 2022-02-04T17:45:19.621Z - info: Building assets...
+2022-02-04T17:45:24.724Z - info: Assets built
+2022-02-04T17:45:24.724Z - info: Generating pages...
+2022-02-04T17:45:34.401Z - debug:  
+2022-02-04T17:45:34.402Z - debug:  
+2022-02-04T17:45:34.403Z - debug:  
+2022-02-04T17:45:34.403Z - debug:  
+2022-02-04T17:45:34.403Z - debug:  
+2022-02-04T17:45:34.403Z - debug:  
+2022-02-04T17:47:23.003Z - debug:  
+2022-02-04T17:47:37.089Z - debug:  
+2022-02-04T17:47:37.089Z - debug:  
+2022-02-04T17:47:43.429Z - info: Pages built
+2022-02-04T17:47:44.535Z - info: Site data built
+2022-02-04T17:47:44.535Z - info: Website generation complete! Total build time: 151.468s
+2022-02-04T17:47:44.535Z - info: Build success!
+2022-02-04T17:50:06.636Z - info: The website has been deployed at: https://nus-cs2103-ay2122s2.github.io/website
+2022-02-05T08:05:58.241Z - error: Failed to read the site config file 'site.json' atC:\repos\nus-cs2103\cs2103-website-base:
+C:\repos\nus-cs2103\cs2103-website-base\site.json: Unexpected end of JSON input
+Please ensure the file exist or is valid
+2022-02-05T08:06:52.398Z - info: Website generation (lazy) started at 4:06:48 pm
+2022-02-05T08:06:58.443Z - info: Building assets...
+2022-02-05T08:07:03.004Z - info: Assets built
+2022-02-05T08:07:03.005Z - info: Generating landing page...
+2022-02-05T08:07:04.356Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-02-05T08:07:05.399Z - info: Site data built
+2022-02-05T08:07:05.399Z - info: Website generation (lazy) complete! Total build time: 17.393s
+2022-02-05T08:07:06.271Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2022-02-05T08:07:06.271Z - info: Press CTRL+C to stop ...

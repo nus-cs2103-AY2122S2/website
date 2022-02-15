@@ -26,6 +26,6 @@ with(this){return _c('div',{staticClass:"block-embed block-embed-service-youtube
 with(this){return _c('ul',[_c('li',[_c('a',{attrs:{"href":"https://www.jetbrains.com/help/idea/introduction-to-refactoring.html"}},[_v("Introduction to Refactoring (in IntelliJ IDEA)")]),_v(": An article on the refactorings available in IntelliJ IDEA.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.1.1")]),_v(", generated on Fri, 11 Feb 2022, 15:30:41 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.1.1")]),_v(", generated on Tue, 15 Feb 2022, 12:50:56 GMT+8]")])])])}
 }];
   

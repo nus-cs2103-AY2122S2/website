@@ -27,3 +27,34 @@
 2022-02-15T04:43:59.190Z - info: Lazy website regeneration complete! Total build time: 1.292s
 2022-02-15T04:50:46.156Z - info: Website generation started at 12:50:44 pm
 2022-02-15T04:50:52.256Z - info: Building assets...
+2022-02-15T04:50:56.740Z - info: Assets built
+2022-02-15T04:50:56.741Z - info: Generating pages...
+2022-02-15T04:51:05.521Z - debug:  
+2022-02-15T04:51:07.308Z - debug:  
+2022-02-15T04:51:07.308Z - debug:  
+2022-02-15T04:51:07.308Z - debug:  
+2022-02-15T04:51:07.308Z - debug:  
+2022-02-15T04:51:07.309Z - debug:  
+2022-02-15T04:53:00.499Z - debug:  
+2022-02-15T04:53:14.961Z - debug:  
+2022-02-15T04:53:15.714Z - debug:  
+2022-02-15T04:53:21.751Z - info: Pages built
+2022-02-15T04:53:22.847Z - info: Site data built
+2022-02-15T04:53:22.847Z - info: Website generation complete! Total build time: 158.632s
+2022-02-15T04:53:22.848Z - info: Build success!
+2022-02-15T04:57:00.147Z - info: The website has been deployed at: https://nus-cs2103-ay2122s2.github.io/website
+2022-02-15T12:31:51.409Z - info: Website generation started at 8:31:43 pm
+2022-02-15T12:31:57.634Z - info: Building assets...
+2022-02-15T12:32:02.988Z - info: Assets built
+2022-02-15T12:32:02.989Z - info: Generating pages...
+2022-02-15T12:32:13.248Z - debug:  
+2022-02-15T12:32:13.248Z - debug:  
+2022-02-15T12:32:20.460Z - debug:  
+2022-02-15T12:32:20.460Z - debug:  
+2022-02-15T12:32:41.162Z - debug:  
+2022-02-15T12:32:57.609Z - debug:  
+2022-02-15T12:33:46.433Z - info: Pages built
+2022-02-15T12:33:47.712Z - info: Site data built
+2022-02-15T12:33:47.712Z - info: Website generation complete! Total build time: 123.934s
+2022-02-15T12:33:47.712Z - info: Build success!
+2022-02-15T12:37:43.833Z - info: The website has been deployed at: https://nus-tee3201.github.io/2022

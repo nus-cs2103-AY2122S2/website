@@ -599,7 +599,7 @@ This activity is worth `2x2=4` participation points.
 <div  tags="m--cs2103 m--tic4002" id="ip-ui-png">
 
 * **Add a representative screenshot** of the product to the `docs` folder.
-  * ==The file name should be in the `docs` folder and named `Ui.png` exactly== (even if the file format is not `png`, name it `png`)
+  * ==The file should be in the `docs` folder and named `Ui.png` exactly== (even if the file format is not `png`, name it `png`)
   * Ideally, the product name is visible in the screenshot e.g., in the title bar of the Window
 
 {{ embed_topic("tp-deliverables-website.mbdf#tips-for-product-screenshot", "Admin " + icon_embedding + " Team Project (tP) → Tips for Product Screenshots", "3", indent="2") }}

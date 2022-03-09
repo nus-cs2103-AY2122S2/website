@@ -113,6 +113,10 @@ While there are no strict rules on choosing version numbers for a product, **[Se
 While on the topic of version numbers, **_milestones_ and _versions_ are not the same thing**. For example, you can have a version release in the middle of a milestone and you can define a milestone that does not release a new version of the product. For convenience, the tP uses them interchangeably (e.g., `{{ version_first }}` is used to mean a version as well as a milestone) because its major milestones coincide with its version releases.
 
 </box>
+<box type="tip" seamless>
+
+<span class="text-success">**Using parallel PRs yet?**</span> We encourage you to try sending parallel PRs (i.e., send another PR while the previous PR you sent is waiting to be merged) if you haven't done that yet. %%Reason: It's important to learn how to do that, because in most real projects it is common to have multiple open PRs from the same author.%%
+</box>
 
 </div>
 

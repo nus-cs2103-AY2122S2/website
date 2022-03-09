@@ -47,12 +47,12 @@ with(this){return _c('li',[_c('p',[_c('strong',[_v("Submit your evaluation")]),_
 with(this){return _c('li',[_c('p',[_c('strong',[_v("Repeat the above steps for the 2nd iP")]),_v(" allocated to you (use the survey "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("iP Peer Evaluation 2")]),_v(").")])])}
 },function anonymous(
 ) {
-with(this){return _c('li',[_c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_v("Take note of the effort required for a "),_c('em',[_v("typical")]),_v(" iP")]),_v(": Now that you have seen two more iPs, you should now be in a better position to estimate how much you need to do for the tP (reason: the expected workload for the tP is that each team member put in about one "),_c('em',[_v("typical")]),_v(" iP worth of effort).")])])])}
+with(this){return _c('li',[_c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_v("Take note of the effort required for a "),_c('em',[_v("typical")]),_v(" iP")]),_v(": Now that you have seen two more iPs, you should now be in a better position to estimate how much you need to do for the tP (reason: the expected workload for the tP is that each team member puts in about one "),_c('em',[_v("typical")]),_v(" iP worth of effort).")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('span',{staticClass:"float-left algolia-no-index"},[_c('a',{staticClass:"badge badge-light",attrs:{"href":"/website/admin/ip-w7.html"}},[_c('span',[_c('span',{staticClass:"far fa-arrow-alt-circle-left",attrs:{"aria-hidden":"true"}}),_v(" iP: Week 7")])])]),_c('span',{staticClass:"float-right algolia-no-index"},[_c('a',{staticClass:"badge badge-light",attrs:{"href":"/website/admin/ip-grading.html"}},[_c('span',[_v("iP: Grading "),_c('span',{staticClass:"far fa-arrow-alt-circle-right",attrs:{"aria-hidden":"true"}})])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.1.1")]),_v(", generated on Wed, 9 Mar 2022, 13:16:10 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.1.1")]),_v(", generated on Wed, 9 Mar 2022, 13:46:31 GMT+8]")])])])}
 }];
   

@@ -228,6 +228,15 @@ Use the person's PPP and RepoSense page to evaluate the effort.
 
 This phase is for you to respond to the bug reports you received.
 
+<box type="important" >
+
+****This is not a bug; it's fine the way it is!**** Everytime you say that in response to a legitimate bug report, you are saying something about your own standard of work as s software engineer. Don't set that standard too low, which goes totally against what we are trying to achieve in this module.
+
+**:fas-check: Yes, that needs fixing!** For each bug report you receive, if you think a software engineer who takes pride in their own work would say "yes, that needs fixing", accept it graciously as a bug, even if you can come up with _some_ argument for it not being a bug. Your professional integrity is more valuable than a measly fraction of a mark that you might lose.
+
+**_Some_ bugs are 'expected'.** Given the short time you had for the tP and your inexperience in SE team projects, this work is not expected to be totally bug free. The grading scheme factors that in already -- i.e., your grade will not suffer if you accept a few bugs in this phase.
+</box>
+
 <box type="tip" seamless>
 
 **Bonus marks for high accuracy rates!**{.text-success}

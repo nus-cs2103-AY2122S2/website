@@ -403,6 +403,17 @@ Only the `response.Accepted` bugs are counted against the dev team. While `respo
   * severity downgraded
   * bug type changed
   * bug flagged as duplicate %%(Note that you still get credit for bugs flagged as duplicates, unless you reported both bugs yourself. Nevertheless, it is in your interest to object to incorrect duplicate flags because when a bug is reported by more testers, it will be considered an 'obvious' bug and will earn slightly less credit than otherwise)%%
+
+<div class="indented-level2">
+<box type="important">
+
+**Don't feel upset if the dev team did not totally agree** with most of the bugs you reported. That is to be expected, given you had very short time to make those bug decisions while the dev team had a lot more time to deliberate about them. Some may have given unreasonable (in your opinion) arguments against your bug reports; not to worry, just give your counter-arguments and leave it to the teaching team to decide (in the next phase) which position is more reasonable.
+
+However, ==if the dev team's argument is not too far from 'reasonable', **it may be better to agree than disagree**==.<br>
+  Reason: an incorrect counter argument at this phase will lower your _accuracy_ more than an incorrect decision made during the testing phase (because you now have more time to think about the bug).
+</box>
+</div>
+
 * **If you would like to revise your own initial type/severity** in response to the team's inputs, you can state that in your explanation %%e.g., you rated the bug `severity.High` and the team changed it to `severity.Low` but now you think it should be `severity.Medium`%% (do not change the original labels yourself though).
 * You can also refer to the below guidelines:
 

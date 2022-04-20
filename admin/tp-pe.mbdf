@@ -374,12 +374,18 @@ Only the `response.Accepted` bugs are counted against the dev team. While `respo
 * As far as possible, ==**choose the correct `type.*`, `severity.*`, `response.*`, assignees, and duplicate status even for bugs you are not accepting**==. Reason: your _non-acceptance_  may be rejected in a later phase, in which case we need to grade it as an accepted bug.<br>
   **If a bug's 'duplicate' status was rejected later** %%(i.e., the tester says it is not really a duplicate and the teaching team agrees with the tester)%%, it will inherit the type/severity/assignees from the 'original' bug that it was claimed to be a duplicate of.
 
-* **Justify your response.** For all of the following cases, ==you must add a comment justifying your stance==. Testers will get to respond to all those cases and will be double-checked by the teaching team in later phases.
+* **Justify your response.** For all of the following cases, ==you must add a comment justifying your stance==. Testers will get to respond to all those cases and will be considered by the teaching team in later phases (when resolving disputed bug reports).<br>
+  {{ icon_important_big_red }} If you don't provide a justification and the tester disagrees with your decision, the teaching team will have no choice but to rule in favor of the tester.
   * downgrading severity
   * non-acceptance of a bug
   * changing the bug type
   * non-obvious duplicate
 
+* **FAQs**:
+  1. **Q**: What if the bug is real but the tester used the wrong label (e.g., used the wrong `type.*`). Can we reject that bug?<br>
+     **A**: A bug is a bug irrespective of the label used. Instead of rejecting, rectify the label.
+  1. **Q**: What if the bug the tester reported is legit but the expected behavior tester suggested is not correct?<br>
+     **A**: You should accept the bug but state that you disagree with the expected/suggested behavior. Reason: the main job of the tester is to detect bugs; suggesting a solution is optional.
 <p/>
 </box>
 
@@ -447,6 +453,11 @@ However, ==if the dev team's argument is not too far from 'reasonable', **it may
 </tab>
 </tabs>
 </div>
+
+* **FAQs:**
+  1. **Q.** What if the team rejected my bug report without giving a reason?<br>
+     **A.** You can disagree with the rejection, and the teaching team will rule in your favor in the next phase.
+
 <p/>
 
 #### <span class="badge badge-success">PE</span> <span class="text-success">Phase 4: Tutor Moderation</span>

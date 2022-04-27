@@ -123,12 +123,10 @@ When the invigilator announces an identity check,
 
 1. remove mask (if any)
 1. turn towards the camera
-1. move closer to the camera (but do not adjust the camera position)
+1. move closer to the camera (but do not adjust the camera position) -- no need to show the student card
 1. hold that pose until the invigilator has taken a screenshot and asks you to go back to the exam activity.
 
-<span class="text-danger">Please comply quickly</span> as non-compliance can add an unnecessary loss of exam time for everyone. This is expected to take no more than 15 seconds.
-
-**Why do this in the middle of the exam activity?** It seems illogical that this is done in the middle of the exam activity when you are concentrating on the exam. However, doing this at the start can delay the exam start (and affects late arrivals) and doing so at the end affects those who have given time extensions due to special needs. Plus those are the times the invigilators are busiest (as some invigilators are students with zero/low invigilation experience, we don't want to stress them too much either -- their mistakes can potentially affect exam takers badly too.). Doing the identity check in the middle ensures the concentration/time loss is equal to everyone.
+<span class="text-danger">Please comply quickly</span> as non-compliance can delay the exam for everyone. This is expected to take no more than 15 seconds.
 </box>
 
 ##### <span class="badge badge-success">PE Phase 1 - Part II</span> <span class="text-success">Evaluating Documents [30 minutes]</span>
